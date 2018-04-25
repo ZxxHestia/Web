@@ -12,6 +12,7 @@
 		<h1>mobile:{{mobile()}}</h1>
 	</div>
 	<script type="text/javascript">
+		// Vue 大写。。。
 		var vm=new Vue({
 			el:'#vue_det',
 			data:{
